@@ -2,8 +2,7 @@
 
 🎓 Business Information Systems Student @ Assuit University  
 📍 Assuit, Egypt  
-📧 nourannashat12@gmail.com  
-📞 +20 101 914 1404  
+📧 nourannashat12@gmail.com   
 🔗 [LinkedIn](https://www.linkedin.com/in/nouran-nashat-2a84011b3) | [Portfolio](#)  
 
 ---
