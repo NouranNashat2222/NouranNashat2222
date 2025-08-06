@@ -1,19 +1,19 @@
-# 👩‍💻 Nouran Nashat
+#  Nouran Nashat
 
-🎓 Business Information Systems Student @ Assuit University  
-📍 Assuit, Egypt  
-📧 nourannashat12@gmail.com   
+ Business Information Systems Student @ Assuit University  
+ Assuit, Egypt  
+ nourannashat12@gmail.com   
 🔗 [LinkedIn](https://www.linkedin.com/in/nouran-nashat-2a84011b3) | [Portfolio](#)  
 
 ---
 
-## 💡 About Me
+##  About Me
 
 I'm a motivated and detail-oriented Business Information Systems student with a passion for technology, programming, and data-driven solutions. I enjoy solving real-world problems using a blend of business knowledge and technical skills. I’ve worked on various academic projects involving UX/UI design, system analysis, and database development — always striving to make things more intuitive, efficient, and impactful.
 
 ---
 
-## 🧠 Skills
+##  Skills
 
 - **Languages & Tools:** JavaScript, C#, MySQL, Figma, MS Access  
 - **Soft Skills:** Communication, Teamwork, Problem Solving, Organization, Management  
@@ -21,7 +21,7 @@ I'm a motivated and detail-oriented Business Information Systems student with a 
 
 ---
 
-## 🚀 Projects
+##  Projects
 
 ### 🎨 UX/UI Design – Music App  
 *July 2025 – August 2025* | Tool: Figma  
@@ -37,7 +37,7 @@ Designed and built a gym management database using Microsoft Access. Created str
 
 ---
 
-## 📜 Certifications
+##  Certifications
 
 - **CIB** – Emerging Talent for the Future Workplace  
 - Human-Centric Interpersonal Skills  
@@ -47,7 +47,7 @@ Designed and built a gym management database using Microsoft Access. Created str
 
 ---
 
-## 🌱 Currently Learning
+##  Currently Learning
 
 - Web development foundations  
 - Database normalization and query optimization  
